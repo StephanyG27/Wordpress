@@ -3,15 +3,21 @@
 Al entrar a la página web, por defecto se encontrará en el inicio, arriba se encuentran los apartados principales de la web, los cuales son:
 
 -Inicio
+
 -Dónde ver 
+
 -Personajes principales
+
 -Temporadas
+
 -Normas de la comunidad
+
 -Ubicación
+
 -Contacta con nosotros
 
 
-#### Inicio
+##### Inicio
 
 En inicio están todos los posts, si bajas con el ratón, encontrarás las siguientes redes sociales:
 -Instagram
@@ -21,27 +27,27 @@ En inicio están todos los posts, si bajas con el ratón, encontrarás las sigui
 Las primeras tres redes sociales pertenecen a la serie oficial, el enlace A Github llevará a mi perfil.
 
 
-#### Dónde ver
+##### Dónde ver
 
 El apartado "Dónde ver" te llevará directamente a Disney Plus, plataforma en la cual se encuentran todos los episodios de Criminal Minds.
 
 
-#### Personajes Principales
+##### Personajes Principales
 
 En el siguiente apartado encontrará una pestaña desplegable que, al presionar, podrá ver una descripción de los personajes principales.
 
 
-#### Temporadas
+##### Temporadas
 
 En temporadas se encuentra un resumen de todos los episodios de Criminal Minds, temporada por temporada.
 
 
-#### Normas de la comunidad
+##### Normas de la comunidad
 
 En este apartado está las normas de publicación y las normas de comunidad.
 
 
-#### Ubicación
+##### Ubicación
 
 Aquí se encuentra la ubicación. 
 
