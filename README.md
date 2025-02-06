@@ -16,6 +16,8 @@ Al entrar a la página web, por defecto se encontrará en el inicio, arriba se e
 
 -Contacta con nosotros
 
+-Idioma
+
 
 ##### Inicio
 
@@ -57,18 +59,23 @@ Aquí se encuentra la ubicación.
 Aquí podrá contactar con nosotros en caso de algún problema en la web.
 
 
+#### Idioma
+
+Podrá cambiar el idioma entre español e inglés.
+
+
+## Escritorio
+
+
 
 ### Entradas
 
 He creado 55 entradas en total y 58 categorías.
 
 
-
 ### Páginas
 
 He creado 13 páginas.
-
-
 
 
 ### Plugins
@@ -80,3 +87,9 @@ Actualmente tengo 4 plugins activos: OSM (mapa), Contact form 7, Polylang y el e
 
 Existe 1 perfil de editor, 1 de colaborador, y 4 de subscriptores.
 
+### Menú
+Hay un menú en español y otro en inglés.
+
+### Widgets
+
+Existe un widget creado.
