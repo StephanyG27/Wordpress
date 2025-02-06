@@ -1,3 +1,5 @@
+# Wordpress: creación de una página web
+
 Al entrar a la página web, por defecto se encontrará en el inicio, arriba se encuentran los apartados principales de la web, los cuales son:
 
 -Inicio
